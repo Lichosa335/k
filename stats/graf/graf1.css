@@ -239,7 +239,7 @@
                 position: absolute;
                 width: 670px;
                 height: 360px;
-                bottom: 43%;
+                bottom: 40%;
                 left: 43%;
 
             }
@@ -681,6 +681,7 @@
         }
         .open{
         display: flex !important;
+
 
 
 
